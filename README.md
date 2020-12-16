@@ -1,5 +1,8 @@
 # PyEEInstrumentationSansVISA
 
+# Please instead use [SocketSCPI](https://socketscpi.readthedocs.io/en/latest/) by Morgan Allison. Its a much more devloped Socket SCPI python interconnection libary thinn this 
+
+
 #Disclaimer: The code presented here is for education purpose only and has not been fully tested on the instruments. Therefore you use this code at your own risk!
 
 Collection of notebooks demonstrating EE instrument control and reading using rs-232 and LXI without VISA
