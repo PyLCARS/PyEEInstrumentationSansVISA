@@ -1,6 +1,6 @@
 # PyEEInstrumentationSansVISA
 
-# Please instead use [SocketSCPI](https://socketscpi.readthedocs.io/en/latest/) by Morgan Allison. Its a much more devloped Socket SCPI python interconnection libary thinn this 
+# Please instead use [SocketSCPI](https://socketscpi.readthedocs.io/en/latest/) by Morgan Allison. It’s a much more developed Socket SCPI python interconnection library than this repo
 
 
 #Disclaimer: The code presented here is for education purpose only and has not been fully tested on the instruments. Therefore you use this code at your own risk!
